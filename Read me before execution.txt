@@ -1,0 +1,14 @@
+One is a live face mask detection project. Other is image mask detection project
+Due to some reason, it(live) is detecting only dark blue coloured masks. It's facing a little difficulty while detecting light blue masks,
+and this can be improved in further tweaking of the hyperparameters.
+
+Before Execution,
+Move the "Experiment" folder to the C: Drive as I have set the path there.
+
+Then execute the code blocks as mentioned in the .ipnyb files.
+
+The models have an accuracy of 96% and 97%.
+
+I have used the Prajnasb face mask dataset for both the models which can be found online and I have attached it in the folder also called experiment.
+
+Thank you.
